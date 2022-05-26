@@ -1,0 +1,29 @@
+input{
+    border-radius: 10px;
+    background-color: rgb(223, 223, 223);
+    width: 15vh;
+    height: 10vh;
+    font-size: 8vh;
+    text-align: center;
+    margin: 1px;
+    border: solid 1px; 
+}
+#main{
+    margin-top: 10vh;
+    margin-left: 50vh;
+    font-size: 3vh;
+}
+button{
+    margin-left: 17vh;
+    width: 15vh;
+    height: 5vh;
+    background-color: rgb(9, 13, 228);
+    border: 0ch;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 3vh;
+}
+#out,#msg{
+    color: blue;
+    margin-left: 9vh;
+}
